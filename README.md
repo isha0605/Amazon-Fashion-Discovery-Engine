@@ -6,8 +6,11 @@ This project retrieves apparel data using the Amazon Product Advertising API and
 
 # Key Steps
 Data Collection: Fetch product details via API.
+
 Preprocessing: Clean data, handle missing values, and apply text processing.
+
 Feature Engineering: Use BoW, TF-IDF, and Word2Vec for text similarity.
+
 Enhancements: Incorporate brand & color for better recommendations.
 
 # Tech Stack
